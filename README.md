@@ -1,11 +1,11 @@
 ## Hi Thizz is Prdeep 👋
 
-<!--
+
 **pradeep1-code/pradeep1-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...Study @ Acharya Istitute of Graduation studies
 - 🌱 I’m currently learning ...  JAVA
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... pradeepsuresh470@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 <h3 align="left">GitHub Stats:</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pradeep1-code&show_icons=true&locale=en" alt="pradeep1-code" /></p>
