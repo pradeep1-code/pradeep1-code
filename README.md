@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pradeep1-code&show_icons=true&locale=en" alt="pradeep1-code" /></p>
 
+<h3 align="left">Streaks:</h3>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pradeep1-code&" alt="pradeep1-code" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
