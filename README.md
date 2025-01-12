@@ -1,5 +1,7 @@
 ## Hi Thizz is Prdeep 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pradeep1-code&label=Profile%20views&color=0e75b6&style=flat" alt="pradeep1-code" /> </p>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...      Study @ Acharya Istitute of Graduation studies
