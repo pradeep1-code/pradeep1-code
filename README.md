@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 <h3 align="left">Streaks:</h3>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pradeep1-code&" alt="pradeep1-code" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pradeep1-code&" alt="pradeep1-code" /></p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <h3 align="left">Connect with me:</h3>
