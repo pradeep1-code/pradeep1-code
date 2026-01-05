@@ -4,8 +4,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...      Study @ Acharya Istitute of Graduation studies
-- 🌱 I’m currently learning ...        JAVA
+- 🔭 I’m currently ...      Study @ Acharya Istitute of Graduate studies
+- 🌱 I’m currently learning ...        TECH SKILLS
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
